@@ -6,12 +6,12 @@ Their paper has received relatively little attention given the deserved fame of 
 
 
 ## Viewing the Notebook
-You can view the Notebook [here using the Jupyter projects nbviewer](https://nbviewer.jupyter.org/github/dstrohmaier/Adaptive-Utility/blob/master/coping_with_complexity.ipynb)
+You can view the Notebook [here using the Jupyter projects nbviewer](https://nbviewer.jupyter.org/github/dstrohmaier/Adaptive-Utility/blob/master/coping_with_complexity.ipynb).
 
 
 ## Motivation
 
-I created the Notebook to explore some of the features Jupyter offers and draw some attention to Cohen and Axelrod's proposal, which has suffered neglect
+I created the Notebook to explore some of the features Jupyter offers and draw some attention to Cohen and Axelrod's proposal, which has suffered neglect.
 
 
 ## License
