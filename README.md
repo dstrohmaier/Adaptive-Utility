@@ -6,7 +6,7 @@ Their paper has received relatively little attention given the deserved fame of 
 
 
 ## Viewing the Notebook
-You can view the Notebook [here using the Jupyter projects nbviewer](https://nbviewer.jupyter.org/github/dstrohmaier/Adaptive-Utility/blob/master/coping_with_complexity.ipynb).
+You can view the Notebook [here using the Jupyter projects nbviewer](https://nbviewer.jupyter.org/github/dstrohmaier/Adaptive-Utility/blob/master/coping_with_complexity.ipynb). The interactive widgets, however, don't work in the viewer, so you better view it in your own Jupyter installation.
 
 
 ## Motivation
